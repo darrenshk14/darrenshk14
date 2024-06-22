@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darrenshk14
-- 👀 I’m interested in Cloud Hosting Bussiness
+- 👀 I’m interested in Cloud Hosting Business
 - 🌱 I’m currently learning Linux/ubuntu system
 - 💞️ I’m interested to someone
 - 📫 How to reach me is on [discord](https://discord.zerocloud.id)
