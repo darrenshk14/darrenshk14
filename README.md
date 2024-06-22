@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @darrenshk14
-- 👀 I’m interested in  simple websites
-- 🌱 I’m currently learning i dont know
-- 💞️ I’m looking to collaborate on someone
-- 📫 How to reach me is on discord
+- 👀 I’m interested in Cloud Hosting Bussiness
+- 🌱 I’m currently learning Linux/ubuntu system
+- 💞️ I’m interested to someone
+- 📫 How to reach me is on [discord](https://discord.zerocloud.id)
 
 <!---
 darrenshk14/darrenshk14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
