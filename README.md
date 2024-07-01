@@ -29,11 +29,10 @@
 
 
 ### ✍️ Quotes
-![](https://static.wixstatic.com/media/fff474_dfd3e433b97f46f98957b61db2b44afc~mv2.jpg/v1/fill/w_733,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fff474_dfd3e433b97f46f98957b61db2b44afc~mv2.jpg)
+![](https://static.wixstatic.com/media/fff474_591a6fc4b7a247dfa2f23753fbb2feb8~mv2.jpg/v1/fill/w_733,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fff474_591a6fc4b7a247dfa2f23753fbb2feb8~mv2.jpg)
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darrenshk14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
