@@ -10,8 +10,10 @@
 - 👨‍💻 Visit my business at [discord](https://discord.zerocloud.id)
 
 - 📫 How to reach me **darrenshk14@gmail.com**
+  
+- ⚡Funfact I really bad at Val T-T
 
-- ⚡ Fun fact **i like someone**
+- 💖  **A short girl :v **
 
 
 ## 🌐 Socials:
