@@ -26,8 +26,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Quotes
+![](https://static.wixstatic.com/media/fff474_dfd3e433b97f46f98957b61db2b44afc~mv2.jpg/v1/fill/w_733,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fff474_dfd3e433b97f46f98957b61db2b44afc~mv2.jpg)
 
 
 
