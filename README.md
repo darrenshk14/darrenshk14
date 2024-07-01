@@ -13,7 +13,7 @@
   
 - ⚡Funfact I really bad at Val T-T
 
-- 💖  **A short girl :v **
+- 💖 I like **a short girl :v**
 
 
 ## 🌐 Socials:
