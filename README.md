@@ -29,7 +29,7 @@
 
 
 ### ✍️ Quotes
-![](https://static.wixstatic.com/media/fff474_591a6fc4b7a247dfa2f23753fbb2feb8~mv2.jpg/v1/fill/w_733,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fff474_591a6fc4b7a247dfa2f23753fbb2feb8~mv2.jpg)
+![](https://quotefancy.com/media/wallpaper/3840x2160/3663634-M-Leighton-Quote-Happily-ever-after-doesn-t-come-easy-But-for-love.jpg)
 
 
 
