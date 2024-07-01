@@ -15,6 +15,12 @@
 
 - 💖 I like a **short girl 🥶**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/d4rr3n_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lezethoyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zerocloud.indonesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lezeth0" height="30" width="40" /></a>
+<a href="https://discord.zerocloud.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sneakyhub" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/d4rr3n14/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zerocloud.id) 
@@ -26,6 +32,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darrenshk14&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p><img align="center" src="https://raw.githubusercontent.com/lezetho/lezetho/main/github-metrics.svg" alt="darrenshk14"
+
+
 
 
 ### ✍️ Quotes
