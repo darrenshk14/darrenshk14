@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Darren Suharko</h1>
-<h3 align="center">Eat, Work, think, sleep (。_。)??</h3>
+<h3 align="center">Eat, Play, Work, think, Sleep (。_。)??</h3>
 
 
 - 🔭 I’m CEO Zerocloud Indonesia
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **darrenshk14@gmail.com**
   
-- ⚡Funfact I really bad at Val T-T
+- ⚡Funfact I really bad at Val😑
 
-- 💖 I like **a short girl :v**
+- 💖 I like a **short girl 🥶**
 
 
 ## 🌐 Socials:
