@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning linux/ubuntu system
 
-- 👨‍💻 Visit my business at [discord](https://discord.zerocloud.id)
+- 👨‍💻 Visit my business at [**discord**](https://discord.zerocloud.id)
 
 - 📫 How to reach me **darrenshk14@gmail.com**
   
