@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **darrenshk14@gmail.com**
   
-- ⚡Funfact I really bad at Val😑
+- ⚡Funfact I really bad at Val 😑
 
 - 💖 I like a **short girl 🥶**
 
