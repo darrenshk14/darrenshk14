@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi I'm Darren Suharko <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-<h3 align="center">Eat, Play, Work, think, Sleep (。_。)??</h3>
+<h3 align="center">Eat, Play, Work, think,and Sleep (。_。)??</h3>
 
 
-- 🔭 I’m CEO [Zerocloud Indonesia](https://github.com/zerocloud-indonesia)
+- 🔭 I’m CEO of [Zerocloud Indonesia](https://github.com/zerocloud-indonesia)
 
 - 🌱 I’m currently learning linux/ubuntu system
 
