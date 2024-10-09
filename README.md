@@ -30,7 +30,7 @@
 
 
 ### ✍️ Quotes
-![]([https://quotefancy.com/media/wallpaper/3840x2160/3663634-M-Leighton-Quote-Happily-ever-after-doesn-t-come-easy-But-for-love.jpg]
+![]([https://quotefancy.com/media/wallpaper/3840x2160/120198-Will-Smith-Quote-Don-t-chase-people-Be-yourself-do-your-own-thing.jpg])
 
 
 ---
