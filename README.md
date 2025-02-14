@@ -14,7 +14,7 @@
   
 - ⚡Funfact I really bad at Val 😑
 
-- 💖 I like a **short girl 🥶**
+- 💖 I like a **short girl 🥶 (but I'm not a pedophile)**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/d4rr3n14/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@d4rr3n15) 
