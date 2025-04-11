@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote:
-![](https://quotefancy.com/media/wallpaper/3840x2160/6361138-Khalil-Gibran-Quote-One-day-you-will-ask-me-which-is-more.jpg)
+![](https://awsimages.detik.net.id/community/media/visual/2019/12/19/9ce06016-6135-4fd9-a30a-ca1b04fd070c_43.jpeg?w=480)
 
 ---
 ![](https://komarev.com/ghpvc/?username=darrenshk14)
