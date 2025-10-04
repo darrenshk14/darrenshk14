@@ -4,12 +4,12 @@
 
 ## ⚡ About Me  
 
-🎓 Electrical Engineering student at **Petra Christian University**  
-🔭 Currently focusing on **mastering Python** for data, automation, and engineering applications  
-🌱 Exploring how coding can support **electronics, control systems, and real-world problem solving**  
-📫 Contact: **darrenshk14@gmail.com**  
-🎯 Goals: strengthen coding fundamentals, connect software with hardware, and build impactful projects  
-⚡ Fun fact: **taking a break from games** — more time for labs, coding, and experiments!  
+- 🎓 Electrical Engineering student at **Petra Christian University**  
+- 🔭 Currently focusing on **mastering Python** for data, automation, and engineering applications  
+- 🌱 Exploring how coding can support **electronics, control systems, and real-world problem solving**  
+- 📫 Contact: **darrenshk14@gmail.com**  
+- 🎯 Goals: strengthen coding fundamentals, connect software with hardware, and build impactful projects  
+- ⚡ Fun fact: **taking a break from games** — more time for labs, coding, and experiments!  
 
 ---
 
