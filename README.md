@@ -32,7 +32,7 @@
 ---
 
 ### ✍️ Quote
-> "Electrical Engineering + Software is the bridge between **ideas** and **real-world solutions**." ⚡  
+> "Electrical Engineering + Software is the bridge between **ideas** and **real-world solutions**." ⚡⚡⚡  
 
 ---
 
