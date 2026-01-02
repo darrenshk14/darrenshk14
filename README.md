@@ -42,7 +42,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=darrenshk14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=darrenshk14&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
