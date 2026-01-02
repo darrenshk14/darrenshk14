@@ -41,10 +41,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=darrenshk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darrenshk14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
