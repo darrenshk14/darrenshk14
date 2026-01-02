@@ -35,14 +35,28 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darrenshk14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenshk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=darrenshk14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darrenshk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darrenshk14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenshk14&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darrenshk14&theme=tokyonight)
+
+</div>
 
 ---
 
