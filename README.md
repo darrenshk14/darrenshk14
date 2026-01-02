@@ -36,17 +36,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrenshk14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=darrenshk14&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darrenshk14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
-
+  <img src="https://streak-stats.demolab.com?user=darrenshk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darrenshk14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenshk14&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darrenshk14/darrenshk14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darrenshk14/darrenshk14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darrenshk14/darrenshk14/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
