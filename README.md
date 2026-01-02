@@ -1,39 +1,55 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px">, I'm Darren Suharko</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Darren+Suharko" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">Eat, Study with her, Build, and Sleep (。_。)??</h3>
+<h3 align="center">Electrical Engineering Student ⚡ | Python Enthusiast 🐍</h3>
+<p align="center">🍕 Eat → 📚 Study → 💻 Build → 😴 Sleep → Repeat!</p>
 
+## 👨‍💻 About Me
 
-## ⚡ About Me  
+- 🎓 Electrical Engineering student at **Petra Christian University**
+- 🔭 Currently focusing on **Python** for data, automation, and engineering
+- 🌱 Exploring **electronics, control systems, and IoT**
+- 📫 Contact: **darrenshk14@gmail.com**
+- ⚡ Fun fact: Taking a break from gaming for more coding time!
 
-- 🎓 Electrical Engineering student at **Petra Christian University**  
-- 🔭 Currently focusing on **mastering Python** for data, automation, and engineering applications  
-- 🌱 Exploring how coding can support **electronics, control systems, and real-world problem solving**  
-- 📫 Contact: **darrenshk14@gmail.com**  
-- 🎯 Goals: strengthen coding fundamentals, connect software with hardware, and build impactful projects  
-- ⚡ Fun fact: **taking a break from games** — more time for labs, coding, and experiments!  
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.instagram.com/d4rr3n14/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@rx_3nnn">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="mailto:darrenshk14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/d4rr3n14/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rx_3nnn) 
+## 💻 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,vscode,git" alt="Tech Stack" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darrenshk14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenshk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darrenshk14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenshk14&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darrenshk14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
-### ✍️ Quote
-> "Electrical Engineering + Software is the bridge between **ideas** and **real-world solutions**." ⚡⚡⚡  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+the+future+with+code+%26+hardware+%E2%9A%A1" alt="Quote" />
+</p>
 
----
-
-![](https://komarev.com/ghpvc/?username=darrenshk14)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darrenshk14&color=blue&style=flat-square" alt="Profile Views" />
+</p>
